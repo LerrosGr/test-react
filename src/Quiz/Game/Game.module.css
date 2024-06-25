@@ -1,0 +1,12 @@
+.progress {
+  background-color: grey;
+  width: 500px;
+  height: 20px; /* Висота прогрес-бару */
+  border-radius: 10px; /* Закруглені краї */
+}
+.progressColor {
+  background-color: blueviolet;
+  height: 100%; /* Висота кольорової частини відповідає висоті контейнера */
+  border-radius: 10px; /* Закруглені краї тільки зліва */
+  transition: width 0.5s ease;
+}

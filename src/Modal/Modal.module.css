@@ -1,0 +1,17 @@
+.container {
+  margin-top: 50px;
+  display: flex;
+}
+
+button {
+  width: 120px;
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  height: 50px;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background-color: blueviolet;
+}
